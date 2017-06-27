@@ -1,2 +1,2 @@
-# safealison-ico
-Safe Alison's ethereum contracts for ICO
+# Safe Alison ICO contracts
+This repository will contain Safe Alison ICO contracts.
